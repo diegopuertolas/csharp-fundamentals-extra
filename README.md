@@ -8,6 +8,7 @@
 - [Shop](#shop)
 - [ATM](#atm)
 - [Guess the number](#guess-the-number)
+- [Gym](#gym)
 
 ## Restaurant
 
